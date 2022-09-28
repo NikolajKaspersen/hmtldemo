@@ -1,0 +1,14 @@
+/* nikolajs demo stylesheet's */
+
+ h1 {
+     color: blue;
+        font-size: 48px;
+ }
+
+header{
+    width: 1024px;
+    border: 1px solid green;
+    margin-bottom: 30px;
+    background: #00163b;
+    padding: 10px;
+}
